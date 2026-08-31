@@ -31,7 +31,7 @@ This project uses Python and Jupyter Notebook to build and evaluate a house-pric
 
 GitHub renders the completed Jupyter Notebook as a static preview, allowing reviewers to view the analysis, model workflow, evaluation output, and saved visualizations directly in the browser. Click on the following file
 
-[View the completed notebook](./house-price-prediction.ipynb)
+[View the completed notebook](./HousePricePredictionJair.ipynb)
 
 ## Installation
 
