@@ -27,6 +27,12 @@ This project uses Python and Jupyter Notebook to build and evaluate a house-pric
 - scikit-learn
 - Matplotlib and Seaborn
 
+## Notebook Preview
+
+GitHub renders the completed Jupyter Notebook as a static preview, allowing reviewers to view the analysis, model workflow, evaluation output, and saved visualizations directly in the browser. Click on the following file
+
+[View the completed notebook](./house-price-prediction.ipynb)
+
 ## Installation
 
 ### Prerequisites
